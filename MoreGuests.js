@@ -1,0 +1,11 @@
+let Guests = ['Areeb', 'Saim', 'Adamkhan'];
+Guests[0] = 'Saleem';
+Guests[3] = 'Saim';
+Guests[5] = 'Zahid';
+console.log(`${Guests[0]} I am inviting you to dinner at 6pm`);
+console.log(`${Guests[1]} I am inviting you to dinner at 7pm`);
+console.log(`${Guests[2]} I am inviting you to dinner at 8pm`);
+console.log(`${Guests[3]} I am inviting you to dinner at 9pm`);
+console.log(`${Guests[4]} I am inviting you to dinner at 10pm`);
+console.log(`${Guests[5]} I am inviting you to dinner at 11pm`);
+console.log(`I am very happy to informing that I found a big table for dinner`);
